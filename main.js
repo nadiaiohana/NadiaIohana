@@ -14,8 +14,8 @@ for(let i=0;i <botoes.length;i++){
     }
 }
 const contadores=document.querySelectorAll(".contador")
-const tempoObjetivo1= new Date("2024-12-25T00:00:00);
-const tempoObjetivo1= new Date("2024-04-25T00:00:00);
-const tempoObjetivo1= new Date("2024-12-25T00:00:00);
-const tempoObjetivo1= new Date("2024-12-25T00:00:00);                               
+const tempoObjetivo1= new Date("2024-31-12T00:00:00);
+const tempoObjetivo1= new Date("2024-27-04T00:00:00);
+const tempoObjetivo1= new Date("2024-25-12T00:00:00);
+const tempoObjetivo1= new Date("2024-31-12T00:00:00);                               
 let tempoAtual= new Date();                               
