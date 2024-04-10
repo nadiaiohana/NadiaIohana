@@ -44,7 +44,7 @@ functionatualizaCronometros(){
 }
 
 functioncomecaCronometro(){
-    atualizaCRonometro();
+    atualizaCronometro();
     setInterval(atualizaCronometro,1000);
 }
 
